@@ -298,12 +298,11 @@ overall security and compliance posture.
 
 ## Skills Demonstrated
 
-- Incident documentation using a structured 5 W's methodology across the
-  incident response lifecycle
+- Incident documentation using a structured 5 W's methodology
 - Hands-on use of investigative and network analysis tools: VirusTotal,
   Wireshark, and tcpdump
-- Progression from conceptual understanding to practical, tool-based incident
-  handling
+- Applying incident response principles through practical, 
+tool-based investigations
 - Reflective practice — identifying gaps, lessons learned, and next steps
   after each incident
 
